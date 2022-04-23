@@ -11,4 +11,4 @@ I'm Sebastian:penguin:
 
 ---
 
-- :zap: Fun fact: I h a t e avocado but guacamole doesn't taste too bad for me.
+- :zap: Fun fact: I **h a t e** avocado but guacamole doesn't taste too bad for me.
